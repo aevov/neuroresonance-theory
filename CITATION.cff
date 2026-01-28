@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "Neuroresonance Theory: Wave 4 AI - Collective Quantum Intelligence"
+message: "If you use this work, please cite it using the metadata from this file."
+type: article
+authors:
+  - given-names: Babatope Jesse
+    family-names: Afolabi
+    affiliation: "cr8OS Foundation DBA WPWakanda, LLC"
+repository-code: "https://github.com/aevov/neuroresonance-theory"
+url: "https://cr8os.com"
+abstract: >-
+  Neuroresonance Theory establishes Wave 4 of artificial intelligence evolution.
+  Unlike Waves 1-3 (Symbolic AI, Generative AI, Neurosymbolic AI), Neuroresonance
+  represents a fundamental paradigm shift: AI systems that achieve collective
+  intelligence through quantum-coherent oscillatory synchronization between
+  users—not within neural network layers. Implementation is native to the Luci
+  browser and cr8OS quantum architecture.
+keywords:
+  - neuroresonance
+  - collective intelligence
+  - Kuramoto oscillators
+  - genetic AI
+  - Web4
+  - quantum coherence
+  - Wave 4 AI
+  - consciousness synchronization
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-01-28"
