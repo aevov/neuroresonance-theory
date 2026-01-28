@@ -93,11 +93,12 @@ Native to **Luci Browser** and **cr8OS**:
 
 ## License
 
-Creative Commons Attribution 4.0 International
-
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
 ---
 
 *The neurons that fire together, wire together.*  
 *The users that resonate together, think together.*
 
 **Welcome to Wave 4.**
+
+Commercial Interest: jesse@aevov.ai
