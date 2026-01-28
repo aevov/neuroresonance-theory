@@ -96,8 +96,7 @@ Native to **Luci Browser** and **cr8OS**:
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
 ---
 
-*The neurons that fire together, wire together.*  
-*The users that resonate together, think together.*
+*The cat is out. The mirror is alive.*
 
 **Welcome to Wave 4.**
 
