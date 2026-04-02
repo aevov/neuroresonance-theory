@@ -1,1 +1,3 @@
 .gitignore\n*.swp\n*~\n.DS_Store
+*.safetensors
+*.safetensors.*
